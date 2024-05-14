@@ -1,0 +1,7 @@
+C:\Users\vivek\Desktop\C# learning\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.exe.config
+C:\Users\vivek\Desktop\C# learning\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.exe
+C:\Users\vivek\Desktop\C# learning\MathsQuiz\MathsQuiz\bin\Debug\MathsQuiz.pdb
+C:\Users\vivek\Desktop\C# learning\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.csproj.AssemblyReference.cache
+C:\Users\vivek\Desktop\C# learning\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Desktop\C# learning\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.exe
+C:\Users\vivek\Desktop\C# learning\MathsQuiz\MathsQuiz\obj\Debug\MathsQuiz.pdb

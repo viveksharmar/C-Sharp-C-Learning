@@ -1,0 +1,7 @@
+C:\Users\vivek\Desktop\C# learning\PalindromeCheck\PalindromeCheck\bin\Debug\PalindromeCheck.exe.config
+C:\Users\vivek\Desktop\C# learning\PalindromeCheck\PalindromeCheck\bin\Debug\PalindromeCheck.exe
+C:\Users\vivek\Desktop\C# learning\PalindromeCheck\PalindromeCheck\bin\Debug\PalindromeCheck.pdb
+C:\Users\vivek\Desktop\C# learning\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.csproj.AssemblyReference.cache
+C:\Users\vivek\Desktop\C# learning\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\vivek\Desktop\C# learning\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.exe
+C:\Users\vivek\Desktop\C# learning\PalindromeCheck\PalindromeCheck\obj\Debug\PalindromeCheck.pdb
